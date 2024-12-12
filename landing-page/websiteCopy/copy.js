@@ -1,5 +1,7 @@
 export const copy = {
-    heroDescription: "Lorem ipsum dolor sit amet  , consectetur adipiscing elit. Quisque neque justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    heroDescription: "Welcome to Hideous Gifts! Gone are the days of boring generic gifts. You can now create stunning personlized gifts by simply
+following the steps below. From trolling your loved ones with a caricature using their face to teaching your kids good habits using personalized styles, we have 
+gifts that stand out for every audience!",
     howItWorks: {
         step1: "How it works 1. Adding anything",
         step2: "How it works 2",
